@@ -37,6 +37,10 @@ extra:
 extra:
   disqus: 'empresseducation'
 
+google_analytics:
+  - 'UA-131741654-1'
+  - 'auto'
+
 markdown_extensions:
   - admonition
   - codehilite:
