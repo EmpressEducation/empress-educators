@@ -1,4 +1,4 @@
-# Style Guide Highlights
+# **Style Guide Highlights**
 
 !!! Summary 
     An overview of some of the highlights of the style guide.
