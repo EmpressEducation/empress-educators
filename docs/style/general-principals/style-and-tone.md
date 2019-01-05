@@ -3,13 +3,13 @@
 !!! Summary 
     Be conversational without being frivolous.
 
-Aim, in your documents, for a voice and tone that's conversational, friendly, and respectful without being overly colloquial or frivolous; a voice that's casual and natural and approachable, not pedantic or pushy. Try to sound like a knowledgeable friend who understands what the developer wants to do.
+Aim, in your eLearning, for a voice and tone that's conversational, friendly, and respectful without being overly colloquial or frivolous; a voice that's casual and natural and approachable, not pedantic or pushy. Try to sound like a knowledgeable friend who understands what the student wants to do.
 
-Don't try to write exactly the way you speak; you probably speak more colloquially and verbosely than you should write, at least for developer documentation. But aim for a conversational tone rather than a formal one.
+Don't try to teach exactly the way you speak; you probably speak more colloquially and verbosely than you should teach, at least for eLearning. But aim for a conversational tone rather than a formal one.
 
-Don't try to be super-entertaining, but also don't aim for super-dry. Be human, let your personality show, be memorable; you can even be a little funny now and then. But remember that the primary purpose of the document is to provide information to someone who's looking for it.
+Don't try to be super-entertaining, but also don't aim for super-dry. Be human, let your personality show, be memorable; you can even be a little funny now and then. But remember that the primary purpose of eLearning is to provide information to someone who's looking for it.
 
-Remember that many readers are not native speakers of English, and that many of them come from cultures different from yours, and that your document may be translated into other languages.
+Remember that many readers are not native speakers of English, and that many of them come from cultures different from yours, and that your eLearning may be translated into other languages.
 
 ___
 

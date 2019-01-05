@@ -1,9 +1,9 @@
 # **Accessible Content**
 
 !!! Summary 
-    Write documentation that is accessible not only to people with disabilities but also to an international audience and those who use older technology and different browsers.
+    Create eLearning that is accessible not only to people with disabilities but also to an international audience and those who use older technology and different browsers.
 
-Most of the principles that apply to good technical documentation also apply to accessible technical documentation:
+Most of the principles that apply to good eLearning also apply to accessible eLearning:
 
 -   Use correct grammar and punctuation.
 -   Use active voice and present tense.

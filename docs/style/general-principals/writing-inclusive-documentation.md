@@ -3,7 +3,7 @@
 !!! Summary 
      Write using inclusive language, word choice, and examples.
 
-We write our developer documentation with inclusivity and diversity in mind. This page is not an exhaustive reference, but describes some general guidelines and examples that illustrate some best practices to follow.
+We write our eLearning with inclusivity and diversity in mind. This page is not an exhaustive reference, but describes some general guidelines and examples that illustrate some best practices to follow.
 
 ___
 
@@ -51,6 +51,3 @@ Use diverse names, genders, and locations in examples. Keep the following advice
 -   Avoid being too culturally specific to the US. Be mindful when referring to specific holidays, cultural practices, sports, figures of speech, etc. Being sensitive here also supports [writing for a global audience](https://developers.google.com/style/translation.html#culturally-specific).
 -   Take care to [choose a diverse set of names](https://developers.google.com/style/examples.html#names) to help examples reflect the real world diversity of our audience.
 
-Except as otherwise noted, the content of this page is licensed under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/), and code samples are licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). For details, see our [Site Policies](https://developers.google.com/terms/site-policies). Java is a registered trademark of Oracle and/or its affiliates.
-
-Last updated September 24, 2018.

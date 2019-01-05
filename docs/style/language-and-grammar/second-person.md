@@ -3,9 +3,9 @@
 !!! Summary 
     Use "you" rather than "we."
 
-In general, use second person in your docs rather than first person---"you" (sometimes implicit) instead of "we."
+In general, use second person in your eLearning rather than first person---"you" (sometimes implicit) instead of "we."
 
-It's also important to figure out who the "you" is that you're addressing (the developer? an end-user? a sysadmin? someone else?), and to be consistent about that. Make it clear to the reader who you expect them to be (sometimes with an explicit "Audience" section near the beginning of the document).
+It's also important to figure out who the "you" is that you're addressing (the student? a friend? a relative? someone else?), and to be consistent about that. Make it clear to the student who you expect them to be (sometimes with an explicit "Audience" section near the beginning of the instruction).
 
 Example of "we" vs "you":
 

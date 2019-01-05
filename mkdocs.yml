@@ -62,7 +62,7 @@ nav:
             - 'Style Guide Highlights': './style/introduction/style-guide-highlights.md'
         - General Principals:
             - 'Style and Tone': './style/general-principals/style-and-tone.md'
-            - 'Documenting Future Features': './style/general-principals/documenting-future-features.md'
+            - 'Teaching Future Topics': './style/general-principals/teaching-future-topics.md'
             - 'Accessible Content': './style/general-principals/accessible-content.md'
             - 'Writing for a global audience': './style/general-principals/writing-for-a-global-audience.md'
             - 'Writing inclusive documentation': './style/general-principals/writing-inclusive-documentation.md'

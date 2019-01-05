@@ -1,9 +1,9 @@
 # **Articles (a, an, the)**
 
 !!! Summary 
-    Include definite and indefinite articles in your documentation, and use them correctly.
+    Include definite and indefinite articles in your eLearning, and use them correctly.
 
-For ease of comprehension and translation, include *a*, *an*, and *the* in your writing.
+For ease of comprehension and translation, include *a*, *an*, and *the* in your eLearning.
 
 *A* and *an* are indefinite articles and are used before a singular noun. They refer to any member of a group.
 

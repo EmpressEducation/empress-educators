@@ -3,7 +3,7 @@
 !!! Summary 
     In general, it's OK to use contractions; but be wary of certain kinds of contractions.
 
-Because we write our documentation in an informal [tone](https://developers.google.com/style/tone), feel free to use most types of contractions.
+Because we create our eLearning in an informal [tone](https://developers.google.com/style/tone), feel free to use most types of contractions.
 
 ___
 
@@ -27,7 +27,7 @@ In general, avoid contractions formed from nouns and verbs.
 !!! success "Recommended"
     The browser is fast, simple, and secure.
 
-The second example above is better because using *'s* in place of *is* could cause the reader to think that "browser's" is the possessive form.
+The second example above is better because using *'s* in place of *is* could cause the student to think that "browser's" is the possessive form.
 
 In some cases, it's OK to use a noun+verb contraction, such as "If you want to display information, a table's your best option." But in general, it's best to avoid that kind of contraction.
 

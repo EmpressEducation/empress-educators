@@ -2,7 +2,6 @@
 
 !!! Summary 
     Ensure that a pronoun clearly refers to its antecedent (the noun that it's replacing).
-
 ___
 
 ### **Ambiguous pronoun references**

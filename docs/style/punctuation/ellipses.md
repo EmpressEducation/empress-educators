@@ -9,7 +9,7 @@ ___
 
 ### **Suspension points**
 
-When ellipses are used to indicate hesitation, they are called *suspension points*. Don't use ellipses this way in our documentation.
+When ellipses are used to indicate hesitation, they are called *suspension points*. Don't use ellipses this way in our eLearning.
 
 **Example:**
 
@@ -22,11 +22,11 @@ ___
 
 **In a user interface**
 
-When ellipses appear in a user interface, exclude them from the documentation describing the user interface unless their omission could cause confusion. For example, if the text on the button in the UI reads "Save ...", document it as "click **Save**".
+When ellipses appear in a source material, exclude them from the instruction describing the source material unless their omission could cause confusion.
 
 **In text**
 
-Don't use ellipses in your written documentation; omit any unnecessary information and include all necessary information.
+Don't use ellipses in your written instruction; omit any unnecessary information and include all necessary information.
 
 However, it's acceptable to use ellipses in quoted text (to replace a portion of the quoted text) except when they appear at the beginning or end of the text.
 

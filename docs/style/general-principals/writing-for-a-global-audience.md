@@ -3,7 +3,7 @@
 !!! Summary 
     Write in US English, but write with translation and a global audience in mind.
 
-We write our developer documentation in US English, but some of it is translated into languages other than English or is read by developers for whom English is not their primary language. Write with translation in mind.
+We write our eLearning in US English, but some of it is translated into languages other than English or is read by students for whom English is not their primary language. Write with translation in mind.
 
 A few specific recommendations:
 
@@ -32,20 +32,20 @@ In particular, don't use more than two nouns as modifiers of another noun.
 For example, place a word like "only" or "just" immediately before the noun or verb it relates to.
 
 !!! failure "Not Recommended"
-    Developers only need to apply for one token.
+    Students only need to read one book.
 
 !!! success "Recommended"
-    Developers need to apply for only one token.
+    Students need to read only one book.
 
 **Clarify antecedents.**
 
 Using pronouns can get tricky when translators are working with small, unconnected strings of text. Help them out by making things as clear as possible. For example, if a pronoun is ambiguous, then replace it with the appropriate noun.
 
 !!! failure "Not Recommended"
-    If you use the term "green beer" in an ad, then make sure it's targeted.
+    If you read the line "green eggs and ham" in an book, then it's written by Dr. Seuss.
 
 !!! success "Recommended"
-    If you use the term "green beer" in an ad, then make sure the ad is targeted.
+    If you read the line "green eggs and ham" in a book, then the book is written by Dr. Seuss.
 
 **Don't be too culturally specific.**
 

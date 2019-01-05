@@ -54,7 +54,7 @@ ___
 
 ### **Single quotation marks**
 
-The only times to use single quotation marks in our documentation are the following:
+The only times to use single quotation marks in our eLearning are the following:
 
 -   In code examples, in languages that use single quotation marks.
 -   When nesting a quotation inside another quotation.

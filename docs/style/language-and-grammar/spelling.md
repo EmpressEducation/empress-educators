@@ -7,7 +7,7 @@ In general, in cases where American spelling differs from Commonwealth/"British"
 
 When in doubt about the spelling of a word, first see the [word list](https://developers.google.com/style/wordlist); if it's not covered there, then see [Merriam-Webster's Collegiate Dictionary, Eleventh Edition](http://www.merriam-webster.com/). (Abbreviated as "MW11.")
 
-Spellings that are nonstandard in the US (and thus shouldn't be used in Google-related documentation) are marked in MW11 as "chiefly British."
+Spellings that are nonstandard in the US (and thus shouldn't be used in Empress-related eLearning) are marked in MW11 as "chiefly British."
 
 A contrived example:
 
@@ -17,9 +17,10 @@ A contrived example:
 !!! success "Recommended" 
     Practice sorting a ton of aluminum by color; authorize the center to give the armory a license for maneuvers; measure in kilograms and kilometers; it behooves you to accessorize your curbs.
 
-Although non-American readers tend to be tolerant of *reading* American spelling in technical documentation, they may find it difficult to have to *type* American spelling. For example, if your documentation tells a reader who's used to the spelling `colour` to type `color`, they may mistype it. So when you use filenames, URLs, and data parameters in examples, try to avoid words that are spelled differently by different groups of English speakers.
+Although non-American readers tend to be tolerant of *reading* American spelling in eLearning, they may find it difficult to have to *type* American spelling. For example, if your instruction tells a reader who's used to the spelling `colour` to type `color`, they may mistype it. So when you use filenames, URLs, and data parameters in examples, try to avoid words that are spelled differently by different groups of English speakers.
 
-**Note:** There are some spellings that some Americans tend to think of as British but that are common in the US. In particular, words with "-lling" and "-lled" endings (travelling, travelled) are acceptable American spellings according to MW11; likewise "theatre," "aesthetic," "axe," "catalogue," and others. More generally, there are lots of words that have multiple acceptable spellings.
+!!! note 
+    There are some spellings that some Americans tend to think of as British but that are common in the US. In particular, words with "-lling" and "-lled" endings (travelling, travelled) are acceptable American spellings according to MW11; likewise "theatre," "aesthetic," "axe," "catalogue," and others. More generally, there are lots of words that have multiple acceptable spellings.
 
 A couple of additional resources, though these are not definitive:
 

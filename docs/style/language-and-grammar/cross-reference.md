@@ -1,9 +1,9 @@
 # **Cross-reference**
 
 !!! Summary 
-    Use cross-references to guide readers to related information.
+    Use cross-references to guide students to related information.
 
-In general, cross-references link to non-essential information that adds to the reader's understanding.
+In general, cross-references link to non-essential information that adds to the student's understanding.
 
 ___
 
