@@ -35,7 +35,7 @@ extra:
       link: 'https://linkedin.com/in/squidfunk'
 
 extra:
-  disqus: 'http://disqus.com/by/empresseducators'
+  disqus: 'empresseducation'
 
 markdown_extensions:
   - admonition
