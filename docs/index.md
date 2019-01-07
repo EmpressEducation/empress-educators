@@ -1,4 +1,4 @@
-# Welcome 
+# Welcome to Empress Educators
 
 This style guide provides a set of guidelines for anyone creating eLearning for Empress-related projects.
 
