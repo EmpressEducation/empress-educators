@@ -1,0 +1,182 @@
+# Project information
+site_name: 'Empress Educators'
+
+site_description: 'Documentation for Empress Educators'
+site_author: 'Joe Nyzio'
+site_url: 'https://empresseducation.github.io/empress-educators/'
+
+# Repository
+# repo_name: 'joenyzio/empress-educators'
+# repo_url: 'https://github.com/joenyzio/empress-educators'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 - 2019 Empress Education'
+
+    # Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'Indigo'
+    accent: 'Indigo'
+  feature:
+    tabs: true
+  font:
+    text: 'Open Sans'
+    code: 'Open Sans'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/squidfunk'
+    - type: 'twitter'
+      link: 'https://twitter.com/squidfunk'
+    - type: 'linkedin'
+      link: 'https://linkedin.com/in/squidfunk'
+
+extra:
+  disqus: 'empresseducation'
+
+google_analytics:
+  - 'UA-131741654-1'
+  - 'auto'
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+
+nav:
+- Home: 'index.md'
+- Process:  
+    - Introduction:
+            - 'Introduction': './process/introduction.md'    
+    - Analysis:
+            - 'Introduction': './process/analysis/introduction.md'
+    - Design:  
+        - 'Design': './process/analysis/design.md'
+    - Development:    
+        - 'Development': './process/analysis/development.md'
+    - Implementation:    
+        - 'Implementation': './process/analysis/implementation.md'
+    - Evaluation:    
+        - 'Evaluation': './process/analysis/evaluation.md'
+- Actions:    
+        - Introduction:
+            - 'Introduction': './actions/content-creation.md'
+        - Curriculum:
+            - 'Introduction': './actions/curriculum/introduction.md'
+            - 'Skills Needed': './actions/curriculum/skills-needed.md'
+            - 'Curriculum Overview': './actions/curriculum/curriculum-overview.md'
+            - 'Project Overview': './actions/curriculum/project-overview.md'
+            - 'Content Overview': './actions/curriculum/content-overview.md'
+            - 'Classroom Outline': './actions/curriculum/classroom-outline.md'
+        - Projects:
+            - 'Introduction': './actions/project/introduction.md'
+            - 'Learning Objectives': './actions/project/learning-objectives.md'
+            - 'Brainstorm': './actions/project/brainstorm.md'
+            - 'Prototype': './actions/project/prototype.md'
+            - 'Rubric': './actions/project/rubric.md'
+            - 'Final Project': './actions/project/final-project.md'
+            - 'Project Materials': './actions/project/project-materials.md'
+            - 'Project Examples': './actions/project/project-examples.md'
+            - 'Publish Project': './actions/project/publish-project.md'
+        - Content:
+            - 'Introduction': './actions/content/introduction.md'
+            - 'Course Outline': './actions/content/course-outline.md'
+            - 'Lesson Outline': './actions/content/lesson-outline.md'
+            - 'Script': './actions/content/script.md'
+            - 'Storyboard': './actions/content/storyboard.md'
+            - 'Record': './actions/content/record.md'
+            - 'Edit': './actions/content/edit.md'
+            - 'Quizzes': './actions/content/quizzes.md'
+            - 'Publish': './actions/content/publish.md'
+        
+- Style-Guide:
+        - Introduction:
+            - 'About this Guide': './style/introduction/about-this-guide.md'
+            - 'Style Guide Highlights': './style/introduction/style-guide-highlights.md'
+        - General Principals:
+            - 'Style and Tone': './style/general-principals/style-and-tone.md'
+            - 'Teaching Future Topics': './style/general-principals/teaching-future-topics.md'
+            - 'Accessible Content': './style/general-principals/accessible-content.md'
+            - 'Writing for a global audience': './style/general-principals/writing-for-a-global-audience.md'
+            - 'Writing inclusive documentation': './style/general-principals/writing-inclusive-documentation.md'
+        - Language and Grammar:
+            - 'Abbreviations': './style/language-and-grammar/abbreviations.md'
+            - 'Active voice': './style/language-and-grammar/active-voice.md'
+            - 'Anthropomorphism': './style/language-and-grammar/anthropomorphism.md'
+            - 'Articles': './style/language-and-grammar/articles.md'
+            - 'Capitalization': './style/language-and-grammar/capitalization.md'
+            - 'Clause order': './style/language-and-grammar/clause-order.md'
+            - 'Contractions': './style/language-and-grammar/contractions.md'
+            - 'Cross-reference': './style/language-and-grammar/cross-reference.md'
+            - 'Plurals in parenthesis': './style/language-and-grammar/plurals-in-parenthesis.md'
+            - 'Possessives': './style/language-and-grammar/possessives.md'
+            - 'Prepositions': './style/language-and-grammar/prepositions.md'
+            - 'Present tense': './style/language-and-grammar/present-tense.md'
+            - 'Pronouns': './style/language-and-grammar/pronouns.md'
+            - 'Second Person': './style/language-and-grammar/second-person.md'
+            - 'Spelling': './style/language-and-grammar/spelling.md'
+            - 'Verb forms in reference documentation': './style/language-and-grammar/verb-forms-in-reference-documentation.md'
+        - Punctuation:
+            - 'Colons': './style/punctuation/colons.md'
+            - 'Commas': './style/punctuation/commas.md'
+            - 'Dashes': './style/punctuation/dashes.md'
+            - 'Ellipses': './style/punctuation/ellipses.md'
+            - 'Exclamation Points': './style/punctuation/exclamation-points.md'
+            - 'Hyphens': './style/punctuation/hyphens.md'
+            - 'Parenthesis': './style/punctuation/parenthesis.md'
+            - 'Periods': './style/punctuation/periods.md'
+            - 'Pluralizing a single letter': './style/punctuation/pluralizing-a-single-letter.md'
+            - 'Quotation marks': './style/punctuation/quotation-marks.md'
+            - 'Semicolons': './style/punctuation/semicolons.md'
+            - 'Slashes': './style/punctuation/slashes.md'
+        - Formatting and Organization:
+            - 'Dates and times': './style/formatting-and-organization/dates-and-times.md'
+            - 'Figures and other images': './style/formatting-and-organization/figures-and-other-images.md'
+            - 'Headings and titles': './style/formatting-and-organization/headings-and-titles.md'
+            - 'Lists': './style/formatting-and-organization/lists.md'
+            - 'Notes and other notices': './style/formatting-and-organization/notes-and-other-notices.md'
+            - 'Numbers': './style/formatting-and-organization/numbers.md'
+            - 'Phone Numbers': './style/formatting-and-organization/phone-numbers.md'
+            - 'Procedures': './style/formatting-and-organization/procedures.md'
+            - 'Spaces between sentences': './style/formatting-and-organization/spaces-between-sentences.md'
+            - 'Tables': './style/formatting-and-organization/tables.md'
+            - 'Units of Measurement': './style/formatting-and-organization/units-of-measurement.md'
+        - Computer Interfaces:
+            - 'API reference code comments': './style/computer-interface/api-reference-code-comments.md'
+            - 'Code in text': './style/computer-interface/code-in-text.md'
+            - 'Code samples': './style/computer-interface/code-samples.md'
+            - 'Documenting command-line syntax': './style/computer-interface/documenting-command-line-syntax.md'
+            - 'Linking to Other Sites': './style/computer-interface/linking-to-other-sites.md'
+        - HTML and CSS:
+            - 'Fonts and font size': './style/html-and-css/fonts-and-font-size.md'
+            - 'HTML and semantic tagging': './style/html-and-css/html-and-semantic-tagging.md'
+            - 'HTML formatting': './style/html-and-css/html-formatting.md'
+            - 'Link text': './style/html-and-css/link-text.md'
+            - 'Making headings into link targets': './style/html-and-css/making-headings-into-link-targets.md'
+            - 'Markdown verses HTML': './style/html-and-css/markdown-verses-html.md'
+            - 'URLs for images': './style/html-and-css/urls-for-images.md'
+            - 'URLs for links': './style/html-and-css/urls-for-links.md'
+        - Names and naming:
+            - 'Example domains and names': './style/names-and-naming/example-domains-and-names.md'
+            - 'Filenames': './style/names-and-naming/filenames.md'
+            - 'Product names': './style/names-and-naming/product-names.md'
+            - 'Trademarks': './style/names-and-naming/trademarks.md'
+        - Other:
+            - 'Other editorial resources': './style/other/other-editorial-resources.md'
+            - 'Release notes': './style/other/release-notes.md'
+
+
+    
+
+            
+
+            
+
+
+            
