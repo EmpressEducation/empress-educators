@@ -51,34 +51,6 @@ markdown_extensions:
 
 nav:
 - Home: 'index.md'
-- Create:
-        - Curriculum:
-            - 'Introduction': './create/curriculum/introduction.md'
-            - 'Skills Needed': './create/curriculum/skills-needed.md'
-            - 'Curriculum Overview': './create/curriculum/curriculum-overview.md'
-            - 'Project Overview': './create/curriculum/project-overview.md'
-            - 'Content Overview': './create/curriculum/content-overview.md'
-            - 'Classroom Outline': './create/curriculum/classroom-outline.md'
-        - Projects:
-            - 'Introduction': './create/project/introduction.md'
-            - 'Learning Objectives': './create/project/learning-objectives.md'
-            - 'Brainstorm': './create/project/brainstorm.md'
-            - 'Prototype': './create/project/prototype.md'
-            - 'Rubric': './create/project/rubric.md'
-            - 'Final Project': './create/project/final-project.md'
-            - 'Project Materials': './create/project/project-materials.md'
-            - 'Project Examples': './create/project/project-examples.md'
-            - 'Publish Project': './create/project/publish-project.md'
-        - Content:
-            - 'Introduction': './create/content/introduction.md'
-            - 'Course Outline': './create/content/course-outline.md'
-            - 'Lesson Outline': './create/content/lesson-outline.md'
-            - 'Script': './create/content/script.md'
-            - 'Storyboard': './create/content/storyboard.md'
-            - 'Record': './create/content/record.md'
-            - 'Edit': './create/content/edit.md'
-            - 'Quizzes': './create/content/quizzes.md'
-            - 'Publish': './create/content/publish.md'
         
 - Style-Guide:
         - Introduction:
