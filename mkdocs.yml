@@ -17,8 +17,8 @@ theme:
   name: 'material'
   language: 'en'
   palette:
-    primary: 'Indigo'
-    accent: 'Indigo'
+    primary: 'White'
+    accent: 'Teal'
   feature:
     tabs: true
   font:
