@@ -18,24 +18,24 @@ To get started, you will need the following:
 
 ### Installing
 
-git clone https://github.com/EmpressEducation/empress-educators.git
+`git clone https://github.com/EmpressEducation/empress-educators.git`
 
 ## Contributing
 
 To make updates to this site, you need to complete the following steps:
 
 Update files
-* Finalize any updates to the files you'd like to make
+* Finalize any updates to the files
 
 Commit these changes to your local repository
-* git add .
-* git commit -m 'short description of changes goes here'
+* `git add .`
+* `git commit -m 'short description of changes goes here'`
 
 Push these changes to this repository
-* git push -u origin master
+* `git push -u origin master`
 
 Deploy these changes to the live site
-* mkdocs gh-deploy --clean
+* `mkdocs gh-deploy --clean`
 
 The live site can be found at https://empresseducation.github.io/empress-educators/
 
